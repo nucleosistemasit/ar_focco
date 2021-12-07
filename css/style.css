@@ -7,7 +7,7 @@
 }
 
 .link {
-    z-index: 999;
+z-index: 999;
     display: block;
     position: relative;
     margin: 0 auto;
@@ -15,6 +15,7 @@
     height: 50px;
     font-size: 15pt;
     color: blue;
+    top: calc(100% - 50px);
     text-align: center;
     background-image: url(../imgs/link.png);
     background-position: center;
