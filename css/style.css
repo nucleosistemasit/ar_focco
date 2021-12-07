@@ -59,6 +59,20 @@
     background-image: url("../imgs/10.png");
 }
 
+.link {
+    z-index: 999;
+    display: inline-block;
+    overflow: auto;
+    /* top: 0; */
+    width: 100%;
+    /* bottom: 0; */
+    position: relative;
+    font-size: 15pt;
+    background-color: beige;
+    color: blue;
+    height: 50px;
+}
+
 .epi-1 {
 
 }
