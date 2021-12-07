@@ -16,7 +16,7 @@
     color: blue;
     height: 50px;
     text-align: center;
-    background-image: url("imgs/link.png");
+    background-image: url("../imgs/link.png");
     background-position: center;
     background-size: contain;
 }
