@@ -8,17 +8,18 @@
 
 .link {
     z-index: 999;
-    display: inline-block;
-    width: 100%;
+    display: block;
     position: relative;
-    font-size: 15pt;
-    /* background-color: beige; */
-    color: blue;
+    margin: 0 auto;
+    width: 200px;
     height: 50px;
+    font-size: 15pt;
+    color: blue;
     text-align: center;
-    background-image: url("../imgs/link.png");
+    background-image: url(../imgs/link.png);
     background-position: center;
-    background-size: contain;
+    background-size: auto;
+    background-repeat: no-repeat;
 }
 
 #arjsDebugUIContainer {
