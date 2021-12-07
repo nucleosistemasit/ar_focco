@@ -6,81 +6,18 @@
     height: 90%;
 }
 
-.lista-epis {
-
-}
-
-.tags-epis {
-
-}
-
-.epi-wrap {
-
-}
-
-.tag-epi {
-    width: 30%;
-    height: 30%;
-    background-size: 226px 226px;
-    background-position: center;
-    background-repeat: no-repeat;
-    display: inline-block;
-    background-image: url(../imgs/1.png);
-}
-
-.tag-epi-1 {
-    background-image: url("../imgs/1.png");
-}
-.tag-epi-2 {
-    background-image: url("../imgs/2.png");
-}
-.tag-epi-3 {
-    background-image: url("../imgs/3.png");
-}
-.tag-epi-4 {
-    background-image: url("../imgs/4.png");
-}
-.tag-epi-5 {
-    background-image: url("../imgs/5.png");
-}
-.tag-epi-6 {
-    background-image: url("../imgs/6.png");
-}
-.tag-epi-7 {
-    background-image: url("../imgs/7.png");
-}
-.tag-epi-8 {
-    background-image: url("../imgs/8.png");
-}
-.tag-epi-9 {
-    background-image: url("../imgs/9.png");
-}
-.tag-epi-0 {
-    background-image: url("../imgs/10.png");
-}
-
 .link {
     z-index: 999;
     display: inline-block;
-    overflow: auto;
-    /* top: 0; */
     width: 100%;
-    /* bottom: 0; */
     position: relative;
     font-size: 15pt;
     background-color: beige;
     color: blue;
     height: 50px;
+    text-align: center;
 }
 
-.epi-1 {
-
-}
-
-label {
-
-}
-
-input {
-    
+#arjsDebugUIContainer {
+    display: none !important;
 }
